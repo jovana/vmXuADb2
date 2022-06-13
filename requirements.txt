@@ -1,0 +1,10 @@
+boto3
+# python-jose
+pydantic[typing_extensions,dotenv]
+python-multipart
+python-dotenv
+pynamodb
+simplejson
+requests
+pyOpenSSL
+ctrader-open-api
